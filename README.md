@@ -25,6 +25,8 @@ Note: Add these libraries into angular-cli scripts tag as follows
 ```
 
 **Usage:**
+
+
      <mlabs-ng2-dropdown-time-picker 
                 [options]="{disableTextInput: false,
 			      'timeFormat': 'h:i A',
@@ -45,7 +47,8 @@ ng2-dropdown-timepicker.component.scss
 
 **Options and Events:**
 
-Example https://github.com/mohanskumar/ng2-dropdown-timepicker/blob/master/Ng2DropdownTimepicker.png
+![ng2dropdowntimepicker](https://user-images.githubusercontent.com/4041250/28027980-05a0a2d2-6569-11e7-8d22-c484936c87c3.png)
+
 
 Usage same as mentioned in https://github.com/jonthornton/jquery-timepicker.
 
