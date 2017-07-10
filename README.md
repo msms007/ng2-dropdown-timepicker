@@ -38,6 +38,10 @@ Note: Add these libraries into angular-cli scripts tag as follows
 
 import {MlabsNg2DropdownTimepickerModule} from './ng2-dropdown-timepicker/mlabs-ng2-dropdown-timepicker.module';
 
+**CSS Import**
+ 
+Import the following style file into app -> Styles.scss
+ng2-dropdown-timepicker.component.scss
 
 **Options and Events:**
 
