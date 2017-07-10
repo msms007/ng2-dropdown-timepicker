@@ -45,6 +45,7 @@ ng2-dropdown-timepicker.component.scss
 
 **Options and Events:**
 
+Example https://github.com/mohanskumar/ng2-dropdown-timepicker/blob/master/Ng2DropdownTimepicker.png
 
 Usage same as mentioned in https://github.com/jonthornton/jquery-timepicker.
 
