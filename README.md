@@ -52,7 +52,8 @@ ng2-dropdown-timepicker.component.scss
 
 Usage same as mentioned in https://github.com/jonthornton/jquery-timepicker.
 
-Changing the options handles the destroy and initialize of time picker component by itself with new options.
+Works with both Template and Reactive Forms.
+
 
 
 
