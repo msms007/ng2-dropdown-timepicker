@@ -1,6 +1,6 @@
-# **Time picker for Angular2**
+# **Time picker for Angular2/4**
 
-Angular2 wrapper around jQuery time picker by
+Angular2/4 wrapper around jQuery time picker by
 ---------------------------------------------
 https://github.com/jonthornton/jquery-timepicker
 
